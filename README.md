@@ -46,3 +46,11 @@ Sube los cambios, teniendo en cuenta lo que averiguaste en el punto 3 Utiliza lo
 Configura el correo en git local de manera correcta
 
 ![image](assets/correoEnTerminal.png)
+
+### Parte 2 en parejas
+
+El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1
+#### _Se mandó la solicitud al colaborador por correo_
+![image](assets/añadirColaborador.png)
+
+Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
