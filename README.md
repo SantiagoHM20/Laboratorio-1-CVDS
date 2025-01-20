@@ -42,3 +42,7 @@ Configura el repositorio local con el repositorio remoto.
 Sube los cambios, teniendo en cuenta lo que averiguaste en el punto 3 Utiliza los siguientes comando en el directorio donde tienes tu proyecto, en este orden:
 
 ![image](assets//cambios%20subidos.png)
+
+Configura el correo en git local de manera correcta
+
+![image](assets/correoEnTerminal.png)
