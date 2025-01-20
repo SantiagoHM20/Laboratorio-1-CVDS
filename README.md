@@ -2,7 +2,6 @@
 # CVDS-introGIT
 Introducción a GIT de la materia CVDS
 
-#### *Las preguntas sin respuesta están en forma de imagen en la carpeta assets*
 
 PARTE I (Trabajo Individual).
 
@@ -10,7 +9,7 @@ Crea un repositorio localmente.
 
 Agrega un archivo de ejemplo al repositorio, el README.md puede ser una gran opción.
 
-![image] (assets//creación repo local.png)
+![image](assets/creación%20repo%20local.png)
 
 
  Averigua para qué sirve y como se usan estos comandos git add y git commit -m “mensaje”
@@ -23,23 +22,23 @@ Agrega un archivo de ejemplo al repositorio, el README.md puede ser una gran opc
 
 Abre una cuenta de github, si ya la tienes, enlazala con el correo institucional.
 
-![image] (assets//Config correos.png)
+![image](assets//Config%20correos.png)
 
 
 
 Crea un repositorio en blanco (vacío) e GitHub.
 
-![image] (assets//creación repo en blanco.png)
+![image](assets//creación%20repo%20en%20blanco.png)
 
 
 
 Configura el repositorio local con el repositorio remoto.
 
-![image] (assets//subir cambios.png)
-![image] (assets//subir cambios 2.png)
+![image](assets//subir%20cambios.png)
+![image](assets//subir%20cambios%202.png)
 
 
 
 Sube los cambios, teniendo en cuenta lo que averiguaste en el punto 3 Utiliza los siguientes comando en el directorio donde tienes tu proyecto, en este orden:
 
-![image] (assets//cambios subidos.png)
+![image](assets//cambios%20subidos.png)
