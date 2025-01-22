@@ -58,7 +58,7 @@ Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir
 #### _Salió el siguiente error:_
 ![image](assets/error%20al%20subir.png)
 
-<<<<<<< HEAD
+
 
 
 Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
@@ -67,6 +67,8 @@ Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volv
 La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente. 
 
 ![image](assets/Conflicto%20resuelto.png)
+
+
 
 
 
