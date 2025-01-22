@@ -89,3 +89,7 @@ Creen una rama cada uno y suban sus cambios
 Nueva rama Andres Calderon
 
 ![image](assets/Newbranch.png)
+
+Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master
+![image](assets/pull%20request%20shm.png)
+
