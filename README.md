@@ -62,4 +62,6 @@ La persona que perdió la competencia de subir los cambios, tiene que resolver l
 
 ![image](assets/Conflicto%20resuelto.png)
 
-Cambio al tiempo Calderon
+Parte 3
+
+¿Hay una mejor forma de trabajar con git para no tener conflictos?
