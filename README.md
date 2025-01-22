@@ -68,6 +68,7 @@ La persona que perdió la competencia de subir los cambios, tiene que resolver l
 
 ![image](assets/Conflicto%20resuelto.png)
 
+<<<<<<< HEAD
 PARTE III (Trabajo de a parejas)
 ¿Hay una mejor forma de trabajar con git para no tener conflictos?
 
@@ -79,8 +80,4 @@ PARTE III (Trabajo de a parejas)
 
 Creen una rama cada uno y suban sus cambios
 
-
-
-
-
-
+![image](assets/crear%20rama%20develop.png)
