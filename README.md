@@ -85,3 +85,7 @@ Creen una rama cada uno y suban sus cambios
 ![image](assets/crear%20rama%20develop.png)
 
 ![image](assets/rama%20develop1.0.png)
+
+Nueva rama Andres Calderon
+
+![image](assets/Newbranch.png)
