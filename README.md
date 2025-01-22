@@ -58,5 +58,8 @@ Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir
 #### _Salió el siguiente error:_
 ![image](assets/error%20al%20subir.png)
 
-cambio al tiempo
+
+
+Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
+![image](assets/conflicto%20al%20tiempo2.png)
 
