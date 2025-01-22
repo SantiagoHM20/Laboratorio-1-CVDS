@@ -81,4 +81,5 @@ PARTE III (Trabajo de a parejas)
 Creen una rama cada uno y suban sus cambios
 
 ![image](assets/crear%20rama%20develop.png)
-![image](assets/crear%20rama%20develop1.0.png)
+
+![image](assets/rama%20develop1.0.png)
