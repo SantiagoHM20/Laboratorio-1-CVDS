@@ -67,11 +67,15 @@ Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volv
 La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente. 
 
 ![image](assets/Conflicto%20resuelto.png)
+![image](assets/Conflicto%20resuelto1.0.png)
 
-![image](assets/Conflicto%20resuelto.png)
 
-Parte 3
-Cambios en la rama:
+
+
+
+
+
+
 
 
 PARTE III (Trabajo de a parejas)
@@ -92,5 +96,10 @@ Creen una rama cada uno y suban sus cambios
 Nueva rama Andres Calderon
 
 ![image](assets/Newbranch.png)
+
+
+
+Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master
+![image](assets/pull%20request%20shm.png)
 
 
