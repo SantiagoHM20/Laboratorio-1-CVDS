@@ -68,6 +68,6 @@ La persona que perdió la competencia de subir los cambios, tiene que resolver l
 
 ![image](assets/Conflicto%20resuelto.png)
 
-Parte 3
+Cambios en la rama:
 
-¿Hay una mejor forma de trabajar con git para no tener conflictos?
+![image](assets/Newbranch.png)
