@@ -93,6 +93,4 @@ Nueva rama Andres Calderon
 
 ![image](assets/Newbranch.png)
 
-Parte 3
 
-¿Hay una mejor forma de trabajar con git para no tener conflictos?
