@@ -68,6 +68,31 @@ La persona que perdió la competencia de subir los cambios, tiene que resolver l
 
 ![image](assets/Conflicto%20resuelto.png)
 
+![image](assets/Conflicto%20resuelto.png)
+
+Parte 3
+Cambios en la rama:
+
+
+PARTE III (Trabajo de a parejas)
+¿Hay una mejor forma de trabajar con git para no tener conflictos?
+
+#### _Si, se puede trabajar en ramas y evitar tocar la rama main/master, ya que son más faciles de manejar y fusionar._
+
+¿Qué es y como funciona el Pull Request?
+
+#### _Es una solicitud que se hace para que los cambios de una rama se revisen y fusionados._
+
+Creen una rama cada uno y suban sus cambios
+
+![image](assets/crear%20rama%20develop.png)
+
+![image](assets/rama%20develop1.0.png)
+
+Nueva rama Andres Calderon
+
+![image](assets/Newbranch.png)
+
 Parte 3
 
 ¿Hay una mejor forma de trabajar con git para no tener conflictos?
