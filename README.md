@@ -57,3 +57,5 @@ Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir
 ¿Que sucedió?
 #### _Salió el siguiente error:_
 ![image](assets/error%20al%20subir.png)
+
+Buenos dias
