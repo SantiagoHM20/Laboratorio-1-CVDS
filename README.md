@@ -2,6 +2,14 @@
 # CVDS-introGIT
 Introducción a GIT de la materia CVDS
 
+### Integrantes
+
+#### Andrés Felipe Calderón Ramirez
+
+#### Santiago Hurtado Martínez
+
+
+### Respuestas
 
 PARTE I (Trabajo Individual).
 
@@ -101,3 +109,12 @@ Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Req
 ![image](assets/pull%20request%20shm.png)
 
 ![image](assets/pull%20request%20andresC.png)
+
+Teniendo en cuenta la recomendación, mezclen los cambios a la rama main a través de PR con el check/review/approval del otro compañero (Cuando se hace merge se deberían borrar las ramas en github)
+
+
+![image](assets/automatically%20delete%20head%20branches.png)
+
+![image](assets/pull%20request%20requires%20aproval.png)
+
+![image](assets/branch%20rule%20protection.png)
